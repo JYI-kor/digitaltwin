@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/VR/7GDGKEZ3ZDXJ2DTZA91VTY.uasset",
+				"C:/Unreal Projects/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/XY/VB1CCRRG6GQDTBQA43PX1D.uasset",
+				"C:/Unreal Projects/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/RV/2I718U1L081P9OEKERENOY.uasset",
+				"C:/Unreal Projects/BlueprintEx/Content/BlueprintEX/BP_Protal.uasset",
+				"C:/Unreal Projects/BlueprintEx/Content/BlueprintEX/BP_Potal.uasset",
+				"C:/Unreal Projects/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/A5/D6ABCUOYJYV4YR7G1Y8FQI.uasset",
+				"C:/Unreal Projects/BlueprintEx/Content/BlueprintEX/BP_Counting.uasset",
+				"C:/Unreal Projects/BlueprintEx/Content/BlueprintEX/BPI_Counting.uasset",
+				"C:/Unreal Projects/BlueprintEx/Content/BlueprintEX/BP_MoveRect.uasset",
+				"C:/Unreal Projects/BlueprintEx/Content/BlueprintEX/BP_Switch.uasset",
+				"C:/Unreal Projects/BlueprintEx/Content/BlueprintEX/BP_CountingBox.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/BP_Switch.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/BP_LeftRight.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/BP_Timer.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/BP_Counting.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/1C/0ZEQROI6CKFOYGVO99YKH8.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/ENUM_MoveType.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/BP_MoveRect.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/VR/7GDGKEZ3ZDXJ2DTZA91VTY.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/ZB/KYX2MHIZL3O1SS064PWQJK.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/96/5Q7MAKMGU1GBOQY9X6JKWM.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/AD/S35BLJJQYO406VKMOX2CR3.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/NS/WU05LZTT5SWRQT5E42JN62.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/BP_Canon.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/BP_CanonBall.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/XS/F46DWZJIS2SL4RVDAYPB23.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/BP_Coin.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/BP_Hud.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/HudWidget.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/Z4/R54YK319CRZ83K1ZULSOGY.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
