@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/DP/WQEAWHGB7TJWWPJLVQ8GWY.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/AU/BPW7O8QN9PDPJVDE7A7JDH.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/XY/VB1CCRRG6GQDTBQA43PX1D.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/1G/CXXJO52S6PY55F0P7Y03HW.uasset",
+				"C:/Unreal Projects/Test/Content/BlueprintEX/BP_Canon.uasset",
+				"C:/Unreal Projects/Test/Content/BlueprintEX/BPI_Switch.uasset",
+				"C:/Unreal Projects/Test/Content/BlueprintEX/BP_CanonBall.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/A5/D6ABCUOYJYV4YR7G1Y8FQI.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BP_Canon.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BP_LeftRight.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Content/BlueprintEX/BP_Coin.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_Canon.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BPI_Switch.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_CanonBall.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_Coin.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_Hud.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/HudWidget.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/StarterContent/Materials/M_Metal_Gold.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/StarterContent/Textures/T_Metal_Gold_N.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/StarterContent/Textures/T_Metal_Gold_D.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/StarterContent/Textures/T_MacroVariation.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_CountingBox.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_LeftRight.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_Switch.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_MoveRect.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/ENUM_MoveType.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_Portal.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_PortalPassWord.uasset",
+				"C:/Unreal Projects/digitaltwin/digitaltwin/BlueprintEx/Plugins/MyFirstPlugIn/Content/BlueprintEX/BP_Timer.uasset"
+			]
+		}
+	]
+}
